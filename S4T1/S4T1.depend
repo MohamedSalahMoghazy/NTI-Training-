@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633610306 source:d:\my works\embedded systems\embedded systems nti\c tasks\s4t1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1633609988 d:\my works\embedded systems\embedded systems nti\c tasks\s4t1\math.h
+
+1633610416 source:d:\my works\embedded systems\embedded systems nti\c tasks\s4t1\math2.c
+

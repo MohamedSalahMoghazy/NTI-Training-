@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634728654 source:d:\my works\embedded systems\embedded systems nti\c tasks\s13t1linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+

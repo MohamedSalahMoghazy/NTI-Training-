@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633952296 source:d:\my works\embedded systems\embedded systems nti\c tasks\s6t1\main.c
+	<stdio.h>
+	<stdlib.h>
+
